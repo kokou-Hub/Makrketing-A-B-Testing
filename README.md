@@ -30,29 +30,16 @@ The **Marketing A/B Testing Analysis** project evaluates the performance of adve
 - **Power BI** – for data visualization and dashboard creation.
 - **Excel** – for initial dataset exploration and structuring.
 
-## 📥 Downloads & Resources
-- 📂 **[Download the Power BI Dashboard](https://github.com/kokou-Hub/Marketing-AB-Testing)**
-- 📖 **[Data Dictionary](https://github.com/kokou-Hub/Marketing-AB-Testing/tree/main/Docs/Marketing_AB_Testing_Data_Dictionary.docx)**
-- 📋 **[Process Documentation](https://github.com/kokou-Hub/Marketing-AB-Testing/tree/main/Docs/Marketing_AB_Testing_Process_Documentation.docx)**
+## Resources
+- 📂 **Power BI Dashboard
+- 📖 **Data Dictionary**
+- 📋 **Process Documentation**
 
 ## 📚 Learning Resources
+- 🎓 [Python for Data Analysis]([https://www.coursera.org/learn/excel-data-visualization/](https://docs.python.org/3/library/resource.html))
 - 🎓 [Power BI Learning Overview](https://learn.microsoft.com/en-us/power-bi/)
-- 🎓 [Introduction to Power Query](https://learn.microsoft.com/en-us/power-query/)
 - 🎓 [Create and Use Analytics Reports with Power BI](https://www.udemy.com/course/power-bi-reporting/)
 - 🎓 [Excel for Data Analysis and Visualization](https://www.coursera.org/learn/excel-data-visualization/)
 
-## 📝 How to Use the Dashboard
-1. **Clone this repository**:
-   ```bash
-   git clone https://github.com/kokou-Hub/Marketing-AB-Testing.git
-   ```
-2. **Open the Power BI `.pbix` file** in Power BI Desktop.
-3. **Explore the interactive dashboard** using filters and slicers.
 
-## 📌 GitHub Repository
-🔗 **[kokou-Hub/Marketing-AB-Testing](https://github.com/kokou-Hub/Marketing-AB-Testing)**
 
-## 📩 Contact & Contributions
-Feel free to **open issues** or **submit pull requests** to improve this project! 🚀
-
-📧 **Contact:** kokouhub@example.com
