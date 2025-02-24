@@ -1,6 +1,6 @@
 # 📊 Marketing A/B Testing Analysis
 
-## 📌 Project Overview
+## Project Overview
 The **Marketing A/B Testing Analysis** project evaluates the performance of advertisements (**Ads**) versus public service announcements (**PSAs**). By leveraging **Python, Power BI, and Excel**, this analysis uncovers insights into **conversion rates, ad engagement trends, and user behavior**.
 
 ## 📊 Key Insights & Findings
@@ -31,7 +31,7 @@ The **Marketing A/B Testing Analysis** project evaluates the performance of adve
 - **Excel** – for initial dataset exploration and structuring.
 
 ## Resources
-- 📂 **Power BI Dashboard
+- 📂 **Power BI Dashboard**
 - 📖 **Data Dictionary**
 - 📋 **Process Documentation**
 
